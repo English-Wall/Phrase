@@ -5,8 +5,9 @@
     "options": ["Except", "Expect"],
     "correct": "Except",
     "example": {
-      "text": "Keep a minimum of 0.5 in. (12.7 mm) corner radius at a repair doubler, except as noted.",
-      "link": "https://example.com/detail-page"
+      "text": "Keep a minimum of 0.5 in. (12.7 mm) corner radius at a repair doubler, except as noted. 
+              <br>「在修補加強板處保持最小0.5英寸（12.7毫米）角半徑，除非另有說明。」",
+      "link": "https://sites.google.com/view/camainteng/maintenance-english/phrase/except-as-noted"
     }
   },
   {
@@ -14,8 +15,9 @@
     "options": ["Others", "Otherwise"],
     "correct": "Otherwise",
     "example": {
-      "text": "Unless otherwise specified, all dimensions are in millimeters.",
-      "link": "https://example.com/specification"
+      "text": "This level of inspection is made from within touching distance unless otherwise specified.
+              <br>「除非另有說明，否則此檢查層級是在觸摸範圍內進行的。」",
+      "link": "https://sites.google.com/view/camainteng/maintenance-english/phrase/except-as-noted"
     }
   }
 ]
