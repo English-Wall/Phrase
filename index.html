@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>英文選擇題網頁</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>英文選擇題練習</h1>
+
+  <div class="question-box">
+    <p>1. E____ as noted 除非另有說明</p>
+    <button onclick="checkAnswer(this, 'O')">A. Except</button>
+    <button onclick="checkAnswer(this, 'X')">B. Expect</button>
+    <div class="feedback"></div>
+    <div class="example" style="display:none;">
+      <a href="https://example.com/detail-page" target="_blank">
+        Keep a minimum of 0.5 in. (12.7 mm) corner radius at a repair doubler, except as noted.
+      </a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
