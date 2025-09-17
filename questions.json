@@ -1,0 +1,21 @@
+
+[
+  {
+    "question": "E____ as noted 除非另有說明",
+    "options": ["Except", "Expect"],
+    "correct": "Except",
+    "example": {
+      "text": "Keep a minimum of 0.5 in. (12.7 mm) corner radius at a repair doubler, except as noted.",
+      "link": "https://example.com/detail-page"
+    }
+  },
+  {
+    "question": "Unless O_____ specified 除非另有說明",
+    "options": ["Others", "Otherwise"],
+    "correct": "Otherwise",
+    "example": {
+      "text": "Unless otherwise specified, all dimensions are in millimeters.",
+      "link": "https://example.com/specification"
+    }
+  }
+]
